@@ -1,0 +1,81 @@
+/* Principal */
+
+.header {
+    background-color: rgb(110, 62, 138);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(110, 62, 138);
+    margin-top: 20px;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+/* Cabeçalho */
+
+.logo {
+    width: 150px;
+}
+
+.header_area {
+    padding: 20px;
+}
+
+.menu_area {
+    margin-top: 30px;
+}
+
+.menu_area nav a {
+    background-color: #5f3d75;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.menu_area nav a:hover {
+    background-color: #764c92;
+}
+
+.active {
+    background-color: #402253 !important;
+}
+
+/* Conteúdo */
+
+.main .card {
+    margin-bottom: 15px;
+}
+
+.main_area .slide {
+    margin-bottom: 20px;
+}
+
+.modal-body img {
+    width: 100%;
+}
+
+.menu_area2 {
+    margin-top: 30px;
+}
+
+.menu_area2 nav a {
+    background-color: #cccf17;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.menu_area2 nav a:hover {
+    background-color: #e4da4e;
+}
+   
+
+/* Footer */
+
+.footer_area {
+    padding: 10px;
+    text-align: center;
+}
